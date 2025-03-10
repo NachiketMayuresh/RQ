@@ -4,6 +4,7 @@ plugins {
 
 dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.modelmapper:modelmapper:2.3.5'
 }
 
 springBoot {
